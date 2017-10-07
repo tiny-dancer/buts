@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "buts-executor",
+    "name": "buts",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "5330trttha",
+    "module": "bot"
+  }
+}
